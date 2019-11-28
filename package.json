@@ -6,6 +6,8 @@
     "@chakra-ui/core": "0.4.1",
     "@emotion/core": "10.0.22",
     "@emotion/styled": "10.0.23",
+    "@formiz/core": "1.0.0-rc.1",
+    "@formiz/validations": "1.0.0-rc.1",
     "emotion-theming": "10.0.19",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
